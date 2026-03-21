@@ -46,7 +46,7 @@ Aqui você vai encontrar minhas soluções para problemas do **LeetCode**, organ
 ## 🔥 Streak & Stats (LeetCode)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SMCZahbmuc?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/alofrrr?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ## 🎯 Objetivo
